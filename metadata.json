@@ -1,0 +1,8 @@
+{
+  "name": "TREINO CS",
+  "description": "Treinos de mira para cs2",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
